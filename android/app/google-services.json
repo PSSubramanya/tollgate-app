@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885996125635",
+    "firebase_url": "https://tollgateapp-febd0.firebaseio.com",
+    "project_id": "tollgateapp-febd0",
+    "storage_bucket": "tollgateapp-febd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885996125635:android:3a410d02f96fa088555176",
+        "android_client_info": {
+          "package_name": "com.example.tollgate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885996125635-emcff60pqsmc4qqtd4s2qepk26f2usaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGH04Iz7GnVH98Qs_mcmBng9R7G4bVMJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885996125635-emcff60pqsmc4qqtd4s2qepk26f2usaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

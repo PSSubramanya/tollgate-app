@@ -1,0 +1,14 @@
+turn on the hotspot on the laptop
+connect your phone to the laptop hotspot
+
+turn on GPS Location on your phone
+
+keep a screenshot of a properly cropped number plate which is registered by you in the app already
+
+But for displaying the payment section you need to do as follows:
+
+run the test.py file on pc
+
+Then click on Payment button
+
+now you can use the app!
