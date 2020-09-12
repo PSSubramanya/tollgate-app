@@ -12,3 +12,6 @@ It is a flutter based project.
 - User must click payment, and the amount gets deducted from the wallet.
 - It also displays he amount deducted and amount pending in the wallet to the user.
 
+## Woring of the App
+
+
