@@ -31,20 +31,27 @@ It is a flutter based project.
 - To add payment portal.
 - Add QR Code generation to scan and auto deduct the money and store data about every user's travel history.
 
-## Preview of the App
+# Preview of the App
 
+## Splash Screen
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/1.jpeg)
 
+## Login Page
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/2.jpeg)
 
+## Signup Page
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/3.jpeg)
 
+## New User Registration Loading Screen
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/4.jpeg)
 
+## User Info Page
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/5.jpeg)
 
+## Travel Info Page
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/6.jpeg)
 
+## User Login Loading Screen
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/7.jpeg)
 
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/8.jpeg)
