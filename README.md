@@ -1,17 +1,14 @@
 # tollgate_app
 
-A new Flutter project.
+It is a flutter based project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+- It is an android app that is built for the purpose of making payments at the tollgates via the app.
+- A user should register his/her account first.
+- Then he/she must enter their personal info (Vehicle number, amount in wallet etc.).
+- Every time they travel, they will have to make a ***TRAVEL ENTRY***.
+- When they reach the tollgate, the camera will detect the registered number plate.
+- User must click payment, and the amount gets deducted from the wallet.
+- It also displays he amount deducted and amount pending in the wallet to the user.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tollgate-app
