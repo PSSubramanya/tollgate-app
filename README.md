@@ -51,7 +51,8 @@ It is a flutter based project.
 ## Travel Info Page
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/6.jpeg)
 
-## User Login Loading Screen
+## Payment Page
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/7.jpeg)
 
+## User Login Loading Screen
 ![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/8.jpeg)
