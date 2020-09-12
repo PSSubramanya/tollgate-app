@@ -30,3 +30,21 @@ It is a flutter based project.
 - To use SMS integration to the app to notify the users about money deduction.
 - To add payment portal.
 - Add QR Code generation to scan and auto deduct the money and store data about every user's travel history.
+
+## Preview of the App
+
+![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/1.jpeg)
+
+![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/2.jpeg)
+
+![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/3.jpeg)
+
+![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/4.jpeg)
+
+![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/5.jpeg)
+
+![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/6.jpeg)
+
+![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/7.jpeg)
+
+![alt text](https://github.com/PSSubramanya/tollgate-app/blob/master/assets/images/8.jpeg)
